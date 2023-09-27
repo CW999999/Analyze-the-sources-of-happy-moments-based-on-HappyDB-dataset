@@ -2,8 +2,6 @@
 
 # Analyze the sources of happy moments
 
--  -
- -
 
 
 Term: Fall 2023
