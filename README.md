@@ -1,6 +1,4 @@
-# Project 1 Description
-
-# Analyze the sources of happy moments
+# Analyze the sources of happy moments based on HappyDB dataset
 
 
 
